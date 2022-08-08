@@ -42,7 +42,6 @@ _더 많은 예제와 사용법은 [페치 노트](https://github.com/dudqls5271
    * 수정 
       * `/추옵 or /도박 등` 
         * 사진이 출력이 안 되는 오류가 있었습니다.
- 
 * [3.0.0](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_28)
   * 추가 
     * `방무 계산기` 기능이 추가
