@@ -38,7 +38,7 @@ _더 많은 예제와 사용법은 [페치 노트](https://github.com/dudqls5271
 > 배포&nbsp; 방법: JAR
 
 ## 🧩 업데이트 내역
-* [0.1.3](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_28)
+* [3.0.0](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_28)
   * 추가 
     * `방무 계산기` 기능이 추가
       * Ex)  /방무 실방무 [스텟창] [스킬방무] 
@@ -54,14 +54,14 @@ _더 많은 예제와 사용법은 [페치 노트](https://github.com/dudqls5271
       * 해당 기능이 작동 하지 않는 오류가 있었습니다. <br/>
       기존 크롤링 사이트 : https://meso.kr에서 더이상 크롤링을 하지 못하게 되어서<br/>
       https://wachan.me에서 AIP을 가지고와서 보여주는 방식으로 변경 되었습니다.
-* [0.1.2](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_20)
+* [2.0.0](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_20)
   * 추가: `유저 검색` 기능이 추가
     * Ex) /정보 (내용)
   * 추가: `유저 무릉 검색` 기능이 추가
     * Ex) /무릉 (내용)
   * 추가: `유저 유니온 검색` 기능이 추가
     * Ex) /유니온 (내용)
-* [0.1.1](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_12)
+* [1.0.0](https://github.com/dudqls5271/Maple_DIscordBot/tree/main/PatchNote/2022_07_12)
   * 추가: `농장 검색` 기능이 추가
     * EX) /농장 [몬스터이름, 조합식] [몬스터 이름]
   * 추가: `무기 추가 옵션` 기능 추가
