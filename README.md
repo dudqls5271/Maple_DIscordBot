@@ -8,9 +8,6 @@
 **해당 코드는 이영빈(진동아델)에 의해 만들어졌으며 모든 코드의 저작권은 이영빈(진동아델)에게 있습니다.** <br>
 해당 소스코드를 응용 하고 싶으신 분은 [여기](https://github.com/dudqls5271/discord-java-bot-2022/fork)을 클릭해 fork 해주세요.
 
-**해당 봇은 개인정보를 요구 하지 않습니다.**
-봇이 사용 하는 사용자 정보 -> 서버ID, 채팅방ID
-
 ## ✅ 초대 방법!
 
 [봇이담. 초대 링크](https://discord.com/oauth2/authorize?client_id=961659381789909043&scope=bot&permissions=0)
